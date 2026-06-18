@@ -1,2 +1,2 @@
 # certificate
-My Data Analytics Certification
+A collection of my professional certifications in data analytics and related fields
