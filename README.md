@@ -1,2 +1,2 @@
 # certificate
-My Deloitte Data Analytics Certification
+My Data Analytics Certification
